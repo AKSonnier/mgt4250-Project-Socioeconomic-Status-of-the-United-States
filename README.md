@@ -1,2 +1,4 @@
-# mgt4250spring2024class22
-THis is a repository for my course project for Data Visualization example.
+# MGT 4250 Spring 2024 Course Project
+Author: Alexander Sonnier, (asonnier@elon.edu)
+
+## Project Description
