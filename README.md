@@ -18,8 +18,8 @@ https://www.elon.edu/u/wp-content/themes/ElonUniversity-Base/assets/img/global/o
 
 ## Interpretationg Visualizations
 1st Visualization (Symbol Map): ![image](https://github.com/AKSonnier/mgt4250spring2024class22/assets/168772707/96fa71b8-43de-4919-9f4a-2575b0dd1073)
-2nd Visualization (Vertical Bar Plot): ![image](https://github.com/AKSonnier/mgt4250spring2024class22/assets/168772707/4a40d758-62f2-4d6e-bb0c-03ef57b83ae9)
-3rd Visualization (Scatter Plot): ![image](https://github.com/AKSonnier/mgt4250spring2024class22/assets/168772707/3d00adfa-3b26-4b8e-a5d7-94e1157dade9)
+2nd Visualization (Vertical Bar Plot): 
+3rd Visualization (Scatter Plot): 
 
 
 ## Discussion and Summary
