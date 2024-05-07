@@ -23,7 +23,7 @@ These questions are *especially* **important** for understanding these visualiza
 ## Data Description & Upload
 For this project, I will attempt to answer these three questions utilizing data found on data.gov and the US Census Bureau. Based on what was answered from the initial questions, I was able to find data, including: 
 
-- **Data.gov**: I found my data through using the search function and searching “Socioeconomic Status in the United States”. The dataset I was able to find was named “Country-level Data Sets”. Then, under the Web page with links to Excel Files, I clicked download and downloaded the file named “Unemployment and Median Household Income for the US States and Countries, 1970-2022”. Then, I also downloaded the “Educational Attainment for Adults Age 25 and Older for the U.S., States, and Counties, 1970-2021”. For this initial data, I then delete the descriptions of the data to make it read correctly in Tableau.
+- **Data.gov**: I found my data through searching for the “Socioeconomic Status in the United States”. The dataset I was able to find was named “Country-level Data Sets” from the Data.gov website. Then, under the Web page with links to Excel Files, I clicked download and downloaded the file named “Unemployment and Median Household Income for the US States and Countries, 1970-2022”. Then, I also downloaded the “Educational Attainment for Adults Age 25 and Older for the U.S., States, and Counties, 1970-2021”. For this initial data, I then delete the descriptions of the data to make it read correctly in Tableau.
 
 - **U.S. Bureau of Labor Statistics**: I found this set of data through googling “amount of people working in each industry in the United States excel file”. The first link is to the Employment by major industry sector by the Bureau of Labor Statistics, which you are able to download the dataset by clicking on the XLSX link under the available formats on the top left of the chart. In order to clean up the dataset, I copied the rows of data in the original excel file of only the industries instead of the headers and pasted it into a new excel file.
 
@@ -52,10 +52,16 @@ Figure 3 (Scatter Plot of Employment in 2012 versus Relative Change of Employmen
 
 ## Discussion and Summary
 
-'''
-import pandas as pd
-'''
 
-'''python
-import pandas as pd
-'''
+
+
+
+
+### Works Cited
+Publisher Economic Research Service, Department of Agriculture. (2024, January 3). Department of Agriculture - County-Level Data Sets. Catalog. https://catalog.data.gov/dataset/county-level-data-sets
+
+U.S. Bureau of Labor Statistics. (2023, September 6). Employment by Major Industry Sector. U.S. Bureau of Labor Statistics. https://www.bls.gov/emp/tables/employment-by-major-industry-sector.ht
+
+Julia von Wurden, C. (2018, May 1). The impact of homelessness on economic competitiveness. American Security Project. https://www.americansecurityproject.org/impact-homelessness-economic-competitiveness/
+
+Pablo Sabillon, J. (2019, June 7). What types of companies have the strongest impact on economic growth?. Entrepreneurship Ecosystem Insights. http://www.ecosysteminsights.org/what-types-of-companies-have-the-strongest-impact-on-economic-growth/
