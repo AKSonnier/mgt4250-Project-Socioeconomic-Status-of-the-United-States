@@ -42,7 +42,7 @@ Figure 3 (Scatter Plot of Employment in 2012 versus Relative Change of Employmen
 - Industry Sector: Label of the Industry Sectors in the U.S. Bureau of Labor Statistics database.
 - Relative Change: The relative average change, in percentage, standarized across the industries from the US Bureau of Labor Statistics database from 2012-2022.
 
-## Interpretationg Visualizations
+## Interpretating Visualizations
 1st Visualization (Symbol Map): 
 
   The symbol map can answer my question because when determining the status of an socioeconomic status for an area, one important characteristic to consider is the unemployment percentage by each state. By seeing the actual percentages for unemployment based on the state, this allows you to link each region to specific education levels within each state and region. Further research could look more closely at specific regional bases like the Research Triangle and Silicon Valley and look at other factors that could be affecting the unemployment for a state like what industry is predominantly seen, outside factors like COVID-19 affecting unemployment and worker satisfaction all over the United States, and the predominant race that is a part of that specific region that could affect the number of available jobs in that area.
