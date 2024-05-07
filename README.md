@@ -23,18 +23,20 @@ These questions are *especially* **important** for understanding these visualiza
 ## Data Description & Upload
 For this project, I will attempt to answer these three questions utilizing data found on data.gov and the US Census Bureau. Based on what was answered from the initial questions, I was able to find data, including: 
 
-  **Data.gov**: I found my data through using the search function and searching “Socioeconomic Status in the United States”. The dataset I was able to find was named “Country-level Data Sets”. Then, under the Web page with links to Excel Files, I clicked download and downloaded the file named “Unemployment and Median Household Income for the US States and Countries, 1970-2022”. Then, I also downloaded the “Educational Attainment for Adults Age 25 and Older for the U.S., States, and Counties, 1970-2021”. For this initial data, I then delete the descriptions of the data to make it read correctly in Tableau.
+- **Data.gov**: I found my data through using the search function and searching “Socioeconomic Status in the United States”. The dataset I was able to find was named “Country-level Data Sets”. Then, under the Web page with links to Excel Files, I clicked download and downloaded the file named “Unemployment and Median Household Income for the US States and Countries, 1970-2022”. Then, I also downloaded the “Educational Attainment for Adults Age 25 and Older for the U.S., States, and Counties, 1970-2021”. For this initial data, I then delete the descriptions of the data to make it read correctly in Tableau.
 
-  **U.S. Bureau of Labor Statistics**: I found this set of data through googling “amount of people working in each industry in the United States excel file”. The first link is to the Employment by major industry sector by the Bureau of Labor Statistics, which you are able to download the dataset by clicking on the XLSX link under the available formats on the top left of the chart. In order to clean up the dataset, I copied the rows of data in the original excel file of only the industries instead of the headers and pasted it into a new excel file.
+- **U.S. Bureau of Labor Statistics**: I found this set of data through googling “amount of people working in each industry in the United States excel file”. The first link is to the Employment by major industry sector by the Bureau of Labor Statistics, which you are able to download the dataset by clicking on the XLSX link under the available formats on the top left of the chart. In order to clean up the dataset, I copied the rows of data in the original excel file of only the industries instead of the headers and pasted it into a new excel file.
 
 ### Data Columns Used
 Figure 1 (Symbol Map of Unemployment Rate by State):
 - State or State Abbreviation of each State and County in the United States (Dimension).
 - Unemployment_rate_2022 (Measure in Percentage): The average unemployment rate, in percentage, for the states and counties for the state in the United States in 2022.
+
 Figure 2 (Vertical Bar Plot of People with a High School Diploma Only and a Bachelor's Degree or Higher by State, 2017-2021):
 - State or State Abbreviation for each State in the United States (Dimension)
 - High School Diploma Only 2017-2021 (Measure): The amount of people in the United States per state and county who have only gotten a High School Diploma from 2017-2021.
 - Bachelor’s Degree or Higher 2017-2021 (Measure): The amount of people in the United States per state and county that have earned a Bachelor's Degree or Higher at an accredited institution from 2017-2021.
+
 Figure 3 (Scatter Plot of Employment in 2012 versus Relative Change of Employment from 2012-2022): 
 - Employment 2012: The number of people employed across a series of industries in the U.S. Bureau of Labor Statistics in 2012.
 - Industry Sector: Label of the Industry Sectors in the U.S. Bureau of Labor Statistics database.
