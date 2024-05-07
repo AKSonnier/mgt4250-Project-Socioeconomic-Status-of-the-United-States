@@ -1,5 +1,5 @@
 # MGT 4250 Spring 2024 Course Project
-Author: Alexander Sonnier, (asonnier@elon.edu)
+Author: Alexander Sonnier (asonnier@elon.edu)
 
 Link to the Tableau Public Application:
 https://public.tableau.com/views/DataVisualizationProjectSocioeconomicStatusoftheUnitedStates/VerticalBarPlot?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
